@@ -1,6 +1,6 @@
 #  NOTE
-### Due to certain bugs in the evaluation metric (AP) used in the original experiment, the results for visual sarcasm target identification in the paper tend to be overly idealized. Therefore, we kindly request that researchers refrain from referencing the experimental results related to visual irony target identification in the paper.
-### More explanation is coming soon!
+Due to certain bugs in the evaluation metric (AP) used in the original experiment, the results for visual sarcasm target identification in the paper tend to be overly idealized. Therefore, we kindly request that researchers refrain from referencing the experimental results related to visual irony target identification in the paper.
+More explanation is coming soon!
 
 # Multimodal Sarcasm Target Identification in Tweets
 
